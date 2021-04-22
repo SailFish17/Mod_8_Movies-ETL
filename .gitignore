@@ -1,5 +1,5 @@
 #csv files
-*.csv
+#after install of git_lfs hold on this: *.csv
 
 #add password files
 config.py
